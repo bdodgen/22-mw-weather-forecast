@@ -46,7 +46,6 @@ const forecast = [
   },
 ];
 
-
 export default function WeeklyForecast() {
   return (
     <>
